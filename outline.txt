@@ -1,9 +1,10 @@
-Chapte 1
+Chapter 1
 - We meet Nick, Tom, Daisy, and
 jordan
 Catsby
--I
-n my younger and more vulnerable years my father gave
+chapter1
+========
+-In my younger and more vulnerable years my father gave
 me some advice that I’ve been turning over in my mind ever
 since.
 “Whenever you feel like criticizing any one,” he told me, “just
